@@ -1,7 +1,7 @@
 {
   "domain": "portoferramentas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff3131",
+  "primary_color": "#e63127",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/cropped-favicon-192x192.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#004aad",
+  "secondary_color": "#322d63",
   "icon": "/img/uploads/cropped-design-sem-nome-1-1.png",
   "store_id": 51546,
   "description": "Empresa especializada em ferragens e Ferramentas Elétricas e manuais. Atuando na comercialização de ferramentas, máquinas e equipamentos para diversos segmentos. ",
