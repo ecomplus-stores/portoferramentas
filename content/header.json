@@ -7,8 +7,8 @@
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "Aproveite nossas ofertas!",
-    "link": "/promotion"
+    "text": "Aproveite nossas ofertas. CLIQUE AQUI!",
+    "link": "https://portoferramentas.netlify.app/ofertas"
   },
   "alphabetical_order_submenu": true,
   "name_all_departments": "",
