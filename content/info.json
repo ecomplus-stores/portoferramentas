@@ -9,10 +9,10 @@
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Mais de 10 produtos em oferta durante todo o mês!"
   }
 }
