@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0d50edf7587b72cd887ed1c7662e3841.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.851eda9ee90d47b0d43bb87adad6996b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.90ea69063b1aed7267173f1a27c279c0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.7b6ada2d40d9a6c7123735cf5ab3b32b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.53f3dc45bbe05e5dbefb6bdfac1c9a46.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Porto Ferramentas",
+  "short_name": "Porto Ferramentas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Empresa especializada em ferragens e Ferramentas Elétricas e manuais. Atuando na comercialização de ferramentas, máquinas e equipamentos para diversos segmentos. ",
+  "background_color": "#ffffff",
+  "theme_color": "#e63127"
+}
