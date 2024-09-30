@@ -33,11 +33,6 @@
       "sort": "offers"
     },
     {
-      "type": "page-title",
-      "title": "",
-      "description": ""
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
