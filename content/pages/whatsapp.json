@@ -3,8 +3,8 @@
   "body": "Aguarde, você será redirecionado...",
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "<﻿h1>Test</h1>"
+      "type": "custom-html",
+      "html": "<meta http-equiv=\"refresh\" content=\"5; URL='https://api.whatsapp.com/send?phone=%2B5573988398001'\"/>"
     }
   ],
   "meta_title": "WhatsApp"
