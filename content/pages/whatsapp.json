@@ -1,0 +1,10 @@
+{
+  "title": "WhatsApp",
+  "body": "T﻿estando...",
+  "sections": [
+    {
+      "type": "custom-content",
+      "markdown": "<﻿h1>Test</h1>"
+    }
+  ]
+}
