@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "<meta http-equiv=\"refresh\" content=\"5; URL='https://api.whatsapp.com/send?phone=%2B5573988398001'\"/>"
+      "html": "<meta http-equiv=\"refresh\" content=\"3; URL='https://api.whatsapp.com/send?phone=%2B5573988398001'\"/>"
     }
   ],
   "meta_title": "WhatsApp"
