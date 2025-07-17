@@ -30,7 +30,7 @@
       "link": "/ofertas",
       "limit": 12,
       "collection_id": "66ccbcb586679971c6538105:categories:Máquinas Elétricas:/maquinas-eletricas",
-      "sort": "offers"
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
