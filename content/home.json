@@ -26,8 +26,8 @@
       "type": "collection-shelf",
       "link": "/ofertas",
       "limit": 12,
-      "collection_id": "66ccbcb586679971c6538105:categories:Máquinas Elétricas:/maquinas-eletricas",
-      "sort": "lowest_price"
+      "collection_id": "66ccbcd086679971c653811f:categories:Acessórios:/acessorios",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
